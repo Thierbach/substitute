@@ -6,8 +6,8 @@ http://pcai056.informatik.uni-leipzig.de/downloads/etc/legacy/Papers/top10000de.
 aus einem gegebenen Dokument. Übrig bleiben dann die kontextbehafteten Wörter, die für das 
 Dokument (z.B. Mietvertrag.txt) relevant sind.
 
-Um repräsentative Werte zur Klassifizierung erhalten müssen in diesem Fall einige Mietverträge
-analysiert werden. Alle Ergebnisse (= die Kontextbezogenene Wörter) können in einer Textdatei 
+Um repräsentative Werte zur Klassifizierung zu erhalten, müssen in diesem Fall einige Mietverträge
+analysiert werden. Alle Ergebnisse (= die kontextbezogenen Wörter) können in einer Textdatei 
 gespeichert werden.
 
 Die statistische Auswertung erfolgt dann durch den Linux Bash Befehl
